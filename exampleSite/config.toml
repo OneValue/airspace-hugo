@@ -1,7 +1,7 @@
 baseURL = "https://onevalue.netlify.com"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
-disableLanguages = ["Fr"]
+disableLanguages = []
 disqusShortname = ""
 paginate = "4"
 summaryLength = "30"
