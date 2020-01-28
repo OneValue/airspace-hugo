@@ -78,13 +78,13 @@ URL = "contact"
 name = "Contact"
 weight = 6
 [params]
-author = "Themefisher"
+author = "OneValue"
 contact_form_action = "#"
 description = "This is meta description"
-email = "demo@email.com"
-google_analitycs_id = "Your ID"
+email = "onevalueconsulting@gmail.com"
+google_analitycs_id = "UA-156880068-2"
 home = "Home"
-location = "North Main Street,Brooklyn Australia"
+location = "Mumbai,India"
 logo = "images/logo.png"
 mobile = "0124857985320"
 [params.gmap]
