@@ -1,6 +1,6 @@
 baseURL = "https://onevalue.co.in"
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = false
+defaultContentLanguageInSubdir = true
 disableLanguages = []
 disqusShortname = ""
 paginate = "4"
