@@ -87,10 +87,10 @@ preloader = ""
 enable = true
 [[params.social]]
 icon = "ion-social-linkedin-outline"
-link = "#"
+link = "https://www.linkedin.com/company/one-value-consulting/?viewAsMember=true"
 [[params.social]]
 icon = "ion-social-twitter-outline"
-link = "#"
+link = "https://twitter.com/OneValueConsul1"
 [[params.social]]
 icon = "ion-social-facebook-outline"
 link = "#"
