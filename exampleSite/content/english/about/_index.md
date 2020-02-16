@@ -1,6 +1,6 @@
 ---
 title: "About Our Company"
-description: "this is meta description"
+description: "We are a next generation Cybersecurity and Cloud Agency"
 draft: false
 bg_image: "images/featue-bg.jpg"
 ---
