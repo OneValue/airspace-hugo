@@ -32,10 +32,6 @@ weight = 3
 [[menu.footer]]
 URL = "pricing"
 name = "Pricing"
-weight = 4
-[[menu.footer]]
-URL = "faq"
-name = "FAQ"
 weight = 5
 [[menu.footer]]
 URL = "contact"
@@ -53,18 +49,6 @@ weight = 3
 URL = "blog"
 name = "Blog"
 weight = 4
-[[menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 5
-[[menu.main]]
-URL = "faq"
-name = "FAQ"
-parent = "Pages"
-[[menu.main]]
-URL = "pricing"
-name = "Pricing"
-parent = "Pages"
 [[menu.main]]
 URL = "contact"
 name = "Contact"
