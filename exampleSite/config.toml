@@ -22,10 +22,6 @@ URL = "service"
 name = "Service"
 weight = 3
 [[menu.footer]]
-URL = "pricing"
-name = "Pricing"
-weight = 5
-[[menu.footer]]
 URL = "contact"
 name = "Contact"
 weight = 6
@@ -49,12 +45,11 @@ weight = 6
 author = "OneValue"
 contact_form_action = "#"
 description = "Design Your Security"
-email = "onevalueconsulting@gmail.com"
+email = "contact@onevalue.co.in"
 google_analitycs_id = "UA-156880068-2"
 home = "Home"
 location = "Mumbai,India"
 logo = "images/logo.png"
-mobile = "0124857985320"
 [params.gmap]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
