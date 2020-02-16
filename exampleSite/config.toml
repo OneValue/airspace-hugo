@@ -1,6 +1,6 @@
 baseURL = "https://onevalue.co.in"
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 disableLanguages = []
 disqusShortname = ""
 paginate = "4"
@@ -13,14 +13,6 @@ copyright = "Copyright &copy; 2019 [OneValue](https://onevalue.co.in) All Rights
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
-weight = 1
-[Languages.fr]
-contentDir = "content/french"
-copyright = "Copyright &copy; 2019 [Onevalue](https://onevalue.co.in) All Rights Reserved"
-home = "Accueil"
-languageCode = "fr-fr"
-languageName = "Fr"
-weight = 2
 [[menu.footer]]
 URL = "about"
 name = "About"
@@ -100,9 +92,6 @@ preloader = ""
 enable = true
 [[params.social]]
 icon = "ion-social-linkedin-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-pinterest-outline"
 link = "#"
 [[params.social]]
 icon = "ion-social-twitter-outline"
