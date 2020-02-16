@@ -6,8 +6,8 @@ banner:
   content : "We love the Web and the work we do.We work closely with our clients to deliver  the best possible solutions for their needs"
   button:
     enable : true
-    label : "Discover Our Project"
-    link : "project"
+    label : "Discover Our Courses"
+    link : "service"
 
 ############################# About #################################
 about:
@@ -83,25 +83,3 @@ funfacts:
     - icon : "ion-ios-timer-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Combined Projects"
       count : "200"
-
-  testimonial_slider:
-    # testimonial item loop
-    - name : "Raymond Roy"
-      image : "images/clients/avater-1.jpg"
-      designation : "CEO-Themefisher"
-      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
-                ideas we feel that our site has unique elements that make us stand out from the crowd."
-                
-    # testimonial item loop
-    - name : "Randi Renin"
-      image : "images/clients/avater-1.jpg"
-      designation : "CEO-Themefisher"
-      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
-                ideas we feel that our site has unique elements that make us stand out from the crowd."
-                
-    # testimonial item loop
-    - name : "Rose Rio"
-      image : "images/clients/avater-3.jpg"
-      designation : "CEO-Themefisher"
-      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
-                ideas we feel that our site has unique elements that make us stand out from the crowd."

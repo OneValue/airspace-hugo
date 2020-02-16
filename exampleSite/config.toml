@@ -9,14 +9,14 @@ theme = "airspace-hugo"
 title = "OneValue | Design Your Security "
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Copyright &copy; 2019 [OneValue](https://onevalue.co.in) All Rights Reserved"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
 [Languages.fr]
 contentDir = "content/french"
-copyright = "Copyright &copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Copyright &copy; 2019 [Onevalue](https://onevalue.co.in) All Rights Reserved"
 home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
@@ -25,10 +25,6 @@ weight = 2
 URL = "about"
 name = "About"
 weight = 1
-[[menu.footer]]
-URL = "project"
-name = "Project"
-weight = 2
 [[menu.footer]]
 URL = "service"
 name = "Service"
@@ -49,10 +45,6 @@ weight = 6
 URL = "about"
 name = "About"
 weight = 1
-[[menu.main]]
-URL = "project"
-name = "Project"
-weight = 2
 [[menu.main]]
 URL = "service"
 name = "Service"
@@ -80,7 +72,7 @@ weight = 6
 [params]
 author = "OneValue"
 contact_form_action = "#"
-description = "This is meta description"
+description = "Design Your Security"
 email = "onevalueconsulting@gmail.com"
 google_analitycs_id = "UA-156880068-2"
 home = "Home"
@@ -123,16 +115,10 @@ preloader = ""
 [params.search]
 enable = true
 [[params.social]]
-icon = "ion-social-googleplus-outline"
-link = "#"
-[[params.social]]
 icon = "ion-social-linkedin-outline"
 link = "#"
 [[params.social]]
 icon = "ion-social-pinterest-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-dribbble-outline"
 link = "#"
 [[params.social]]
 icon = "ion-social-twitter-outline"
