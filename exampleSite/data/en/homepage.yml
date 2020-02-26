@@ -3,7 +3,7 @@ banner:
   enable : true
   bg_image : "images/work.jpg"
   title : "A CyberSecurity & <br/> Cloud Consulting Agency"
-  content : "We love the Web and the work we do.We work closely with our clients to deliver  the best possible solutions for their needs"
+  content : "We love the work we do.We work closely with our clients to analyse and deliver the best possible solutions for their needs"
   button:
     enable : true
     label : "Discover Our Courses"
@@ -23,16 +23,10 @@ Our Course creators (aptly called OneWizards) are technical wizards directly inv
 ######################### Portfolio ###############################
 portfolio:
   enable : true
-  bg_image : "images/featue-bg.jpg"
-  title : "WE BELIEVE IN GREAT IDEAS"
+  bg_image : "images/ideas.jpg"
+  title : "WE BELIEVE IN GREAT IDEAS AND DELIVER ON YOUR EXPECTATIONS"
   content : "
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  We, at OneValue believe in delivering the best solution for our Clients. This starts with understanding the client requirements in-depth, gathering all the data, conceptualizing a framework and detailed planning of the project. Our technical team works hard to surpass and deliver on our client's expectations.  
   "
   button:
     enable : true
