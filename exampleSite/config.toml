@@ -9,7 +9,7 @@ theme = "airspace-hugo"
 title = "OneValue | Design Your Security "
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2019 [OneValue](https://onevalue.co.in) All Rights Reserved"
+copyright = "Copyright &copy; 2020 [OneValue](https://onevalue.co.in) All Rights Reserved"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"

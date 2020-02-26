@@ -44,9 +44,9 @@ service:
 cta:
   enable : true
   bg_image : "images/call-to-action-bg.jpg"
-  title : "We design delightful digital experiences."
-  content : "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+  title : "We Protect your entire Organization."
+  content : "Our highly experienced Team just loves to tackle new challenges and innovate across domains. Be assured that your Assets are under safe hands"
   button:
     enable : true
-    label : "Tell Us Your Story"
+    label : "Get in Touch today to know more"
     link : "contact"
