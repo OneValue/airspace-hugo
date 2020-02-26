@@ -23,7 +23,7 @@ Our Course creators (aptly called OneWizards) are technical wizards directly inv
 ######################### Portfolio ###############################
 portfolio:
   enable : true
-  bg_image : "images/ideas.jpg"
+  bg_image : "images/pen.jpg"
   title : "WE BELIEVE IN GREAT IDEAS AND DELIVER ON YOUR EXPECTATIONS"
   content : "
   We, at OneValue believe in delivering the best solution for our Clients. This starts with understanding the client requirements in-depth, gathering all the data, conceptualizing a framework and detailed planning of the project. Our technical team works hard to surpass and deliver on our client's expectations.  
